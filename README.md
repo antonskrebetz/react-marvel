@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React app on class style (without hooks)
 
 ### App available on: 
 https://marvelbrest.herokuapp.com/
